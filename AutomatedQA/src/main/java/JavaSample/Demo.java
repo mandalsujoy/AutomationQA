@@ -7,7 +7,7 @@ public class Demo {
 		
 		System.out.println("updation1 from homepc");
 		System.out.println("updation from office pc");
-		System.out.println("second updateion from office pc");
+		System.out.println("second updation from office pc");
 	}
 
 }
